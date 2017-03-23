@@ -1,0 +1,156 @@
+*{
+    font-family: 'Segoe UI', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+*::selection{
+    background: #2ABF88;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 25px auto;
+    box-shadow: 0 0 4px #666;
+    overflow: hidden;
+}
+
+.bolgish{
+    margin: 0;
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+}
+
+.sidenav{
+    min-height: 600px;
+    flex-basis: 100px;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidenav #zh{
+    flex-basis: 200px;
+    background: #2ABF88;
+    text-align: center;
+}
+
+#zh > #logo{
+    padding: 10px;
+    width: 200px;
+    transform: rotate(-45deg) translate(-55px, -50px);
+    background: white;
+    position: absolute;
+}
+
+#zh > figure{
+    margin-top: 40px;
+}
+
+#zh figure img{
+    max-width: 100px;
+    height: auto;
+}
+
+#zh figure span{
+    display: block;
+    color: white;
+    margin-top: 15px;
+}
+
+.sidenav .menu{
+    border-right: 1px solid #EEE;
+}
+
+.sidenav .menu ul{
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.menu ul li{
+    color: #666;
+    cursor: pointer;
+    padding: 10px 15px;
+    transition: background 0.5s;
+}
+
+.menu ul li:hover{
+    background: #E6E6E6;
+}
+
+.content{
+    flex-basis: 100px;
+    flex-grow: 10;
+    padding-bottom: 50px;
+}
+
+.content #searchBlock{
+    height: 40px;
+    max-width: 100%;
+    background: #2ABF88;
+    padding: 10px;
+    box-shadow: 0 0 1px 0 #EEE;
+    display: flex;
+    flex-direction: row;
+}
+
+#searchBlock #searchInput{
+    flex-basis: 100px;
+    padding: 9px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    box-shadow: 0 0 1px #666;
+    font-size: 17px;
+    color: #666;
+    padding-left: 15px;
+    flex-grow: 4;
+}
+
+#searchBlock #searchButton{
+    padding: 11px 10px;
+    background: white;
+    color: #666;
+    font-size: 110%;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+#banner{
+    min-height: 250px;
+    width: 100%;
+    background: #EEE;
+}
+
+.grid{
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 5px 5px 0 5px;
+    justify-content: space-around;
+}
+
+.grid .col{
+    margin: 5px 5px 0 5px;
+    background: #eee;
+    padding: 25px 0;
+    flex-basis: 300px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 140%;
+    transition: all 0.5s;
+}
+
+.grid .col:hover{
+    color: #2ABF88;
+}
+
+.grid .col img{
+    max-width: 80px;
+    height: auto;
+}
+
+.full-w{
+    padding: 5px;
+    margin: 0 10px;
+    background: #eee;
+}
+
