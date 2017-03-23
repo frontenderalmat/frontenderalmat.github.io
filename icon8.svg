@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27.5951mm" height="27.595mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 565 565"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#FCD776;fill-rule:nonzero}
+    .fil1 {fill:#ECC76B;fill-rule:nonzero}
+    .fil3 {fill:#67C1ED;fill-rule:nonzero}
+    .fil4 {fill:#252422;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="565" height="565"/>
+  <g id="_783004110320">
+   <polygon class="fil1" points="173,265 105,288 105,440 173,440 "/>
+   <polygon class="fil1" points="392,265 460,288 460,440 392,440 "/>
+   <polygon class="fil2" points="392,188 392,440 173,440 173,187 282,124 "/>
+   <polygon class="fil3" points="105,393 133,393 133,334 105,334 "/>
+   <polygon class="fil3" points="432,393 460,393 460,334 432,334 "/>
+   <polygon class="fil1" points="253,440 311,440 311,334 253,334 "/>
+   <polygon class="fil3" points="199,393 227,393 227,334 199,334 "/>
+   <polygon class="fil3" points="337,393 366,393 366,334 337,334 "/>
+   <polygon class="fil3" points="199,294 227,294 227,235 199,235 "/>
+   <polygon class="fil3" points="268,294 297,294 297,235 268,235 "/>
+   <polygon class="fil3" points="337,294 366,294 366,235 337,235 "/>
+   <path class="fil3" d="M282 162c11,0 20,9 20,20 0,11 -9,21 -20,21 -11,0 -20,-10 -20,-21 0,-11 9,-20 20,-20z"/>
+   <path class="fil4" d="M221 387l-15 0 0 -46 15 0 0 46zm6 -60l-28 0c-4,0 -7,3 -7,7l0 59c0,4 3,7 7,7l28 0c4,0 7,-3 7,-7l0 -59c0,-4 -3,-7 -7,-7z"/>
+   <path class="fil4" d="M359 387l-15 0 0 -46 15 0 0 46zm7 -60l-29 0c-3,0 -6,3 -6,7l0 59c0,4 3,7 6,7l29 0c3,0 6,-3 6,-7l0 -59c0,-4 -3,-7 -6,-7z"/>
+   <path class="fil4" d="M221 288l-15 0 0 -46 15 0 0 46zm13 -53c0,-4 -3,-7 -7,-7l-28 0c-4,0 -7,3 -7,7l0 59c0,4 3,7 7,7l28 0c4,0 7,-3 7,-7l0 -59z"/>
+   <path class="fil4" d="M290 288l-15 0 0 -46 15 0 0 46zm-22 -60c-4,0 -7,3 -7,7l0 59c0,4 3,7 7,7l29 0c3,0 6,-3 6,-7l0 -59c0,-4 -3,-7 -6,-7l-29 0z"/>
+   <path class="fil4" d="M359 288l-15 0 0 -46 15 0 0 46zm13 -53c0,-4 -3,-7 -6,-7l-29 0c-3,0 -6,3 -6,7l0 59c0,4 3,7 6,7l29 0c3,0 6,-3 6,-7l0 -59z"/>
+   <path class="fil4" d="M453 327l-21 0c-4,0 -7,3 -7,7l0 59c0,4 3,7 7,7l21 0 0 34 -54 0 0 -160 54 19 0 34zm0 60l-14 0 0 -46 14 0 0 46zm-327 -46l0 46 -14 0 0 -46 14 0zm356 -52l-83 -29 0 -60 20 12c1,0 3,1 4,1 2,0 4,-2 6,-4 2,-3 0,-7 -3,-9l-71 -41c-3,-2 -7,-1 -9,2 -2,4 -1,8 2,10l38 21 0 242 -68 0 0 -57c0,-4 -3,-7 -7,-7 -3,0 -6,3 -6,7l0 57 -45 0 0 -93 45 0 0 13c0,4 3,7 6,7 4,0 7,-3 7,-7l0 -20c0,-4 -3,-7 -7,-7l-58 0c-3,0 -6,3 -6,7l0 100 -68 0 0 -75c0,-4 -3,-7 -7,-7 -3,0 -6,3 -6,7l0 75 -54 0 0 -34 21 0c4,0 7,-3 7,-7l0 -59c0,-4 -3,-7 -7,-7l-21 0 0 -34 54 -19 0 61c0,4 3,7 6,7 4,0 7,-3 7,-7l0 -144 103 -59 46 27c3,2 7,1 9,-3 2,-3 1,-7 -2,-9l-50 -29c-1,0 -2,-1 -3,-1l0 0c-2,0 -3,1 -4,1l-141 82c-3,2 -4,6 -2,9 1,2 3,4 6,4 1,0 2,-1 3,-1l22 -13 0 61 -84 29c-3,1 -5,5 -4,9 1,2 4,4 6,4 1,0 2,0 3,0l11 -4 0 143c0,3 3,6 7,6l355 0c3,0 6,-3 6,-6l0 -143 12 4c1,0 2,0 2,0 3,0 6,-2 7,-4 0,-1 0,-2 0,-3l0 0c0,-2 -2,-5 -5,-6z"/>
+   <path class="fil4" d="M282 196c-8,0 -14,-6 -14,-13 0,-8 6,-14 14,-14 7,0 13,6 13,14 0,7 -6,13 -13,13zm0 -40c-15,0 -27,12 -27,27 0,14 12,27 27,27 15,0 27,-13 27,-27 0,-15 -12,-27 -27,-27z"/>
+   <path class="fil4" d="M271 381c4,0 7,3 7,6 0,4 -3,7 -7,7 -4,0 -7,-3 -7,-7 0,-3 3,-6 7,-6z"/>
+  </g>
+ </g>
+</svg>
